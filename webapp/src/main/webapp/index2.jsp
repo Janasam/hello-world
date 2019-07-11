@@ -46,3 +46,4 @@
 <h1>Jana will clear the Zoho interview in first shot !!!!</h1>
 <h1>Git repo on Backup drive</h1>
 <h1>Jana has successfully made Git-2 2 Jenkins-Tomcat servers-Ansible Server-to multiple hosts-Docker tyring </h1>
+<h1>Git repo on Backup drivetrying fetch and pull</h1>
